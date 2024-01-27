@@ -1,0 +1,48 @@
+h1 {
+    margin-top: 50px;
+    color: #741fbf;
+    font-size: 25px;
+}
+
+input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 300px;
+}
+
+form button {
+    border: none;
+    border-radius: 8px;
+    width: 170px;
+    height: 40px;
+    background: #741fbf;
+}
+
+div {
+    text-align: center;
+    font-family: arial;
+}
+
+.flexbox-container {
+    margin-top: 100px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+
+.flexbox-item {
+    height: 50px;
+}
+
+.flexbox1 {}
+
+.flexbox2 {}
+
+.flexbox3 {}
+
+.flexbox4 {}
+
+.flexbox5 {}
